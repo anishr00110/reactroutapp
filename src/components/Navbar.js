@@ -4,7 +4,7 @@ const Navbar =() => {
     return (
         <nav className="nav-wrapper red darken-3">
             <div className="container">
-          <a href='/' className="brand logo">Xminds</a>
+          <a  className="brand logo">Xminds</a>
             <ul className="right">
                 <li><a href="/home">Home</a></li>
                  <li><a href="/list">List</a></li>
